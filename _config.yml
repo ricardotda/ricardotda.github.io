@@ -1,2 +1,3 @@
 name: Ricardo, Android Developer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
